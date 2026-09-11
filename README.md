@@ -10,7 +10,7 @@
 
 <br>
 
-<p><strong>Research interests</strong></p>
+## Research interests
 
 <p>
   <strong>Application Security</strong> &nbsp; · &nbsp;
@@ -22,7 +22,7 @@ I am interested in how applications enforce access control and how those decisio
 
 <br>
 
-<p><strong>Security research milestones</strong></p>
+## Security research milestones
 
 | Milestone | Status |
 | :--- | :--- |
@@ -33,12 +33,12 @@ I am interested in how applications enforce access control and how those decisio
 
 <br>
 
-<p><strong>Featured project</strong></p>
+## Featured project
 
 <table>
   <tr>
     <td>
-      <p><strong><a href="https://github.com/casing1/authzest">AuthZest</a></strong></p>
+      <h3><a href="https://github.com/casing1/authzest">AuthZest</a></h3>
       <p><strong>Source analysis for reviewing access control in FastAPI applications.</strong></p>
       <p>Inventories routes and dependency declarations without executing the application, and links the results to their original source locations.</p>
       <p><sub>Alpha · Currently provides static source analysis. Authentication and authorization classification, and vulnerability detection, are not yet implemented.</sub></p>
@@ -56,7 +56,7 @@ I am interested in how applications enforce access control and how those decisio
 
 <br>
 
-<p><strong>Contact</strong></p>
+## Contact
 
 | | Email |
 | :--- | :--- |
