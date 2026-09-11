@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">casing1 — Build. Learn. Iterate.</title>
+  <desc id="desc">A navy and mint developer banner with an abstract code window. Security tools, web experiments, and small ideas made real.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#101B30"/><stop offset="1" stop-color="#071119"/></linearGradient>
+    <linearGradient id="accent" x1="766" y1="52" x2="1132" y2="309" gradientUnits="userSpaceOnUse"><stop stop-color="#65E6C4"/><stop offset="1" stop-color="#73A6FA"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#90B2C6" stroke-opacity=".07"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1032" cy="172" r="231" stroke="#65E6C4" stroke-opacity=".08"/>
+    <circle cx="1032" cy="172" r="191" stroke="#65E6C4" stroke-opacity=".10"/>
+    <path d="M0 359H1200" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="56" y="51" width="7" height="7" rx="2" fill="#65E6C4"/>
+    <text x="76" y="59" fill="#9BB2C7" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">CASING1 / PERSONAL WORKSPACE</text>
+    <text x="52" y="156" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-weight="750" font-size="79" letter-spacing="-3">casing1<tspan fill="#65E6C4">.</tspan></text>
+    <text x="56" y="206" fill="#D5E3F0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="600">Build. Learn. Iterate.</text>
+    <text x="56" y="243" fill="#96AFC3" font-family="Segoe UI,Arial,sans-serif" font-size="17">Small ideas, working projects.</text>
+    <g font-family="Consolas,monospace" font-size="12" letter-spacing="1">
+      <rect x="56" y="285" width="132" height="28" rx="14" fill="#65E6C4" fill-opacity=".08" stroke="#65E6C4" stroke-opacity=".25"/>
+      <text x="76" y="303" fill="#90E8D0">SECURITY TOOLS</text>
+      <rect x="198" y="285" width="147" height="28" rx="14" fill="#79A9F7" fill-opacity=".07" stroke="#79A9F7" stroke-opacity=".25"/>
+      <text x="219" y="303" fill="#AAC6F2">WEB EXPERIMENTS</text>
+    </g>
+    <g transform="translate(780 64)">
+      <rect width="348" height="236" rx="14" fill="#0B1624" stroke="#294557"/>
+      <path d="M0 43H348" stroke="#294557"/>
+      <circle cx="22" cy="22" r="4" fill="#65E6C4"/><circle cx="38" cy="22" r="4" fill="#466477"/><circle cx="54" cy="22" r="4" fill="#466477"/>
+      <text x="205" y="27" fill="#7796AA" font-family="Consolas,monospace" font-size="11">workspace / notes</text>
+      <g font-family="Consolas,monospace" font-size="15">
+        <text x="24" y="83" fill="#597386">01</text><text x="57" y="83" fill="#65E6C4">&gt; make something useful</text>
+        <text x="24" y="119" fill="#597386">02</text><text x="57" y="119" fill="#C9D9E7">  read the source</text>
+        <text x="24" y="155" fill="#597386">03</text><text x="57" y="155" fill="#C9D9E7">  try a small idea</text>
+        <text x="24" y="191" fill="#597386">04</text><text x="57" y="191" fill="#9ABDF6">  keep improving</text>
+      </g>
+      <rect x="57" y="211" width="9" height="3" fill="#65E6C4"/>
+    </g>
+    <path d="M707 104L689 122L707 140M729 104L747 122L729 140" stroke="#65E6C4" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1158 305V319M1151 312H1165" stroke="#73A6FA" stroke-opacity=".6" stroke-width="2"/>
+  </g>
+</svg>
+
