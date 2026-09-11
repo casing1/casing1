@@ -22,6 +22,17 @@ I am interested in how applications enforce access control and how those decisio
 
 <br>
 
+## Security research milestones
+
+| Milestone | Status |
+| :--- | :--- |
+| **Bug bounty rewards** | 2 rewards received |
+| **CVE ID reservation** | Reserved · not yet published |
+
+<sub>Program and project names, reward amounts, and the CVE identifier are withheld.</sub>
+
+<br>
+
 ## Featured project
 
 <table>
