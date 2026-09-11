@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.svg" alt="casing1 · Security Research · Seoultech CIS Lab" width="100%">
+  <img src="./banner.gif" alt="casing1 · Security Research · Seoultech CIS Lab — animated trust boundary" width="100%">
 </p>
 
 <p align="center">
   <strong>Seoultech CIS Lab</strong><br>
-  시스템의 동작을 이해하고, 보안의 경계를 살펴봅니다.<br>
-  <sub>보안 연구와 소스 코드 분석을 기록하는 개인 공간입니다.</sub>
+  Understanding systems. Exploring security boundaries.<br>
+  <sub>A personal space for security research and source code analysis.</sub>
 </p>
 
 <br>
@@ -18,7 +18,7 @@
   <strong>Source Code Analysis</strong>
 </p>
 
-애플리케이션의 접근 제어와 이를 뒷받침하는 코드 구조에 관심을 두고 있습니다.
+I am interested in how applications enforce access control and how those decisions are reflected in source code.
 
 <br>
 
@@ -28,9 +28,9 @@
   <tr>
     <td>
       <h3><a href="https://github.com/casing1/authzest">AuthZest</a></h3>
-      <p><strong>접근 제어 분석을 위한 FastAPI 소스 분석 도구</strong></p>
-      <p>애플리케이션을 실행하지 않고 라우트와 의존성 선언을 수집하고, 원본 코드의 위치와 함께 살펴볼 수 있도록 정리합니다.</p>
-      <p>현재는 정적 소스 분석을 제공하는 알파 단계이며, 인증·인가 판정과 취약점 탐지는 아직 구현되지 않았습니다.</p>
+      <p><strong>Source analysis for reviewing access control in FastAPI applications.</strong></p>
+      <p>Inventories routes and dependency declarations without executing the application, and links the results to their original source locations.</p>
+      <p><sub>Alpha · Currently provides static source analysis. Authentication and authorization classification, and vulnerability detection, are not yet implemented.</sub></p>
       <p><sub>Static analysis &nbsp; / &nbsp; Route &amp; dependency inventory &nbsp; / &nbsp; Source evidence</sub></p>
       <p>
         <a href="https://github.com/casing1/authzest"><strong>Repository →</strong></a>
@@ -42,6 +42,15 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+## Contact
+
+| | Email |
+| :--- | :--- |
+| **Academic** | <a href="mailto:ehgis2344@seoultech.ac.kr">ehgis2344@seoultech.ac.kr</a> |
+| **Personal** | <a href="mailto:ehgis2344@gmail.com">ehgis2344@gmail.com</a> |
 
 <br>
 
