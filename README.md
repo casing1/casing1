@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="casing1 · Security Research · Seoultech CIS Lab — animated trust boundary" width="100%">
+  <img src="./banner-motion.gif" alt="casing1 · Security Research · Seoultech CIS Lab — animated trust boundary" width="100%">
 </p>
 
 <p align="center">
