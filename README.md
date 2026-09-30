@@ -42,7 +42,7 @@ I am interested in how applications enforce access control and how those decisio
 **Gold Award · 2026 Undergraduate Paper Competition**  
 Korea Digital Contents Society
 
-*Analysis of Privilege Transfer Vulnerabilities in Messenger-Based AI Agents*
+*Analysis of Privilege Transfer Vulnerabilities in Messenger-Based Local AI Agents*
 
 [Award announcement](https://cis.seoultech.ac.kr/subList/20000002783?nttSeq=266&pmode=detail)
 
