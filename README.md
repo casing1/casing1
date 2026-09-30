@@ -27,9 +27,12 @@ I am interested in how applications enforce access control and how those decisio
 | Milestone | Status |
 | :--- | :--- |
 | **Bug bounty rewards** | 2 rewards received |
-| **CVE ID reservation** | Reserved · not yet published |
+| **Published CVE** | [CVE-2026-81842](https://www.cve.org/CVERecord?id=CVE-2026-81842) — Grafana Enterprise & Grafana OSS · Published September 29, 2026 |
 
-<sub>Program and project names, reward amounts, and the CVE identifier are withheld.</sub>
+**Finder:** Dohyun Choi (`casing`), CIS Lab, SeoulTech  
+[Grafana advisory](https://grafana.com/security/security-advisories/cve-2026-81842) · [Official CVE record](https://github.com/CVEProject/cvelistV5/blob/main/cves/2026/81xxx/CVE-2026-81842.json)
+
+<sub>Reward amounts and unpublished research details are withheld.</sub>
 
 <br>
 
